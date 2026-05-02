@@ -65,7 +65,7 @@ The Dollar lost its safe-haven status to Gold
  - The US Dollar and VIX used to have a positively correlated relationship prior to this year. This year, the dollar stayed flat while volatility fell, and gold surged instead. With tariffs and political uncertainty making the dollar less reliable, investors turned to gold instead.
 
 Oil spiked due to the Iran war
- - Oil was relatively stable for most of the year until March 2026 when the Iran war began. Iran controls the Strait ofe Hormuz, where roughly 20-25% of global oil supply passes. When the strait closed, supply was disrupted, and prices spiked. Since then, oil has been volatile, rising and falling with each development in the war, but overall remaining elevated. 
+ - Oil was relatively stable for most of the year until March 2026 when the Iran war began. Iran controls the Strait of Hormuz, where roughly 20-25% of global oil supply passes. When the strait closed, supply was disrupted, and prices spiked. Since then, oil has been volatile, rising and falling with each development in the war, but overall remaining elevated. 
 
 The Japanese Yen weakened all year
  - The Yen declined due to the interest rate gap between Japan and the US. The US currently has a borrowing rate of 3.75% while Japan’s is 0.75%. Investors borrow cheaply in Yen and invest in higher-yielding US assets (known as the carry trade), which kept consistent selling pressure on the Yen throughout the year. This does give Japan a trading advantage, as it pushes Japanese residents to purchase domestically, hurting foreign companies that sell to Japan. 
