@@ -115,9 +115,12 @@ with each asset's return. The goal was to draw my own conclusions from the past 
 better understand the relationship between assets, build intuition for how specific assets move, and overall strengthen my knowledge of the
 markets.
 
-
-
-
-
-
-
+.
+.
+.
+.
+.
+.
+.
+.
+.
