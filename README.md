@@ -2,9 +2,12 @@ link: https://github.com/Azayb/asset-comparison
 
 # Cross-Asset Comparison Charts
 
-Built by an undergraduate student interested in global markets. This dashboard tracks 20 financial instruments across equities, rates, credit, commodities, FX, and volatility to monitor cross-asset market dynamics in real time.
+Built by an undergraduate student interested in global markets. This dashboard tracks 20 financial instruments across equities, rates, credit,
+commodities, FX, and volatility to monitor cross-asset market dynamics in real time.
 
-Disclaimer: This is an ongoing project of mine. The code is complete, but the market analysis and conclusions I am drawing from it are still incomplete. I run it regularly to track how markets are developing and will continue updating my findings as I work through each chart and as new data comes in.
+Disclaimer: This is an ongoing project of mine. The code is complete, but the market analysis and conclusions I am drawing from it are still
+incomplete. I run it regularly to track how markets are developing and will continue updating my findings as I work through each chart and as
+new data comes in.
 
 ---
 
@@ -55,7 +58,8 @@ Disclaimer: This is an ongoing project of mine. The code is complete, but the ma
 ## Key Findings (May 2025 - May 2026)
 
 Commodities performed best, with silver in the lead
- - Silver returned +136% and Gold +67%, outperforming every other asset class. Silver's surge was driven by both safe-haven demand and industrial use. Gold benefited investors shifting away from the dollar as their go-to safe haven.
+ - Silver returned +136% and Gold +67%, outperforming every other asset class. Silver's surge was driven by both safe-haven demand and
+ - industrial use. Gold benefited investors shifting away from the dollar as their go-to safe haven.
 
 The Dollar lost its safe-haven status to Gold
  - The US Dollar and VIX used to have a positively correlated relationship prior to this year. This year, the dollar stayed flat while volatility fell, and gold surged instead. With tariffs and political uncertainty making the dollar less reliable, investors turned to gold instead.
@@ -103,4 +107,17 @@ jupyter notebook asset_comparison.ipynb
 - Analyzing the relationships between different assets and asset classes and drawing independent conclusions. 
 
 
-`This program was built to collect the past 1 year of closing prices for 20 instruments spanning the major asset classes: equities, fixed income, credit, commodities, FX, and volatility. Using daily returns, the analysis examines performance, volatility, and correlation across assets, both individually and by asset class, to identify broader market trends and relationships. A summary statistics table ranks assets by total return, current volatility, and risk-adjusted return in order to compare not just how much each asset returned, but the risk associated with each asset's return. The goal was to draw my own conclusions from the past year's data rather than just reading about them, allowing me to better understand the relationship between assets, build intuition for how specific assets move, and overall strengthen my knowledge of the markets.
+This program was built to collect the past 1 year of closing prices for 20 instruments spanning the major asset classes: equities, fixed
+income, credit, commodities, FX, and volatility. Using daily returns, the analysis examines performance, volatility, and correlation across
+assets, both individually and by asset class, to identify broader market trends and relationships. A summary statistics table ranks assets by
+total return, current volatility, and risk-adjusted return in order to compare not just how much each asset returned, but the risk associated
+with each asset's return. The goal was to draw my own conclusions from the past year's data rather than just reading about them, allowing me to
+better understand the relationship between assets, build intuition for how specific assets move, and overall strengthen my knowledge of the
+markets.
+
+
+
+
+
+
+
