@@ -1,3 +1,5 @@
+link: https://github.com/Azayb/asset-comparison
+
 # Cross-Asset Comparison Charts
 
 Built by an undergraduate student interested in global markets. This dashboard tracks 20 financial instruments across equities, rates, credit, commodities, FX, and volatility to monitor cross-asset market dynamics in real time.
@@ -65,10 +67,11 @@ The Japanese Yen weakened all year
  - The Yen declined due to the interest rate gap between Japan and the US. The US currently has a borrowing rate of 3.75% while Japan’s is 0.75%. Investors borrow cheaply in Yen and invest in higher-yielding US assets (known as the carry trade), which kept consistent selling pressure on the Yen throughout the year. This does give Japan a trading advantage, as it pushes Japanese residents to purchase domestically, hurting foreign companies that sell to Japan. 
 
 VIXY fell despite occasional fear spikes
- - VIXY ended down -32%, but there were brief spikes, such as the March 2026 Iran war
+ - According to past articles, VIX was low ending 2025 largely due to strong corporate earnings, AI-led growth, and the recession that many predicted never arriving. By early 2026, articles began questioning whether massive AI investments were actually paying off, which started pushing volatility back up. VIXY did experience brief spikes, mostly during last year's tariff shock and the March 2026 Iran war.
 
 Bonds and Stocks Relationship is changing
- - SPY and 10Y Treasuries showed almost zero correlation over the past year. The traditional relationship, where bonds go up when stocks go down, has broken down
+ - SPY and 10Y Treasuries showed almost zero correlation over the past year. The traditional relationship, where bonds go up when stocks go down, has broken down and apparently has been since 2022. *currently researching the reasons behind this shift and will 
+update findings as I learn more*
 
 
 ## Tech Stack
