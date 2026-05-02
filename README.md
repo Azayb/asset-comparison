@@ -2,22 +2,29 @@
 
 Built by an undergraduate student interested in global markets. This dashboard tracks 20 financial instruments across equities, rates, credit, commodities, FX, and volatility to monitor cross-asset market dynamics in real time.
 
+Disclaimer: This is an ongoing project of mine. The code is complete, but the market analysis and conclusions I am drawing from it are still incomplete. I run it regularly to track how markets are developing and will continue updating my findings as I work through each chart and as new data comes in.
+
 ---
 
 ## Charts
 
 ### Asset Class Performance Individually
-
-
+<img width="868" height="468" alt="Screenshot 2026-05-02 at 3 47 26 PM" src="https://github.com/user-attachments/assets/7b861590-ca8c-45ca-98b0-1f0d61ba68d2" />
 
 
 ### Asset Class Performance by Group
 
+<img width="728" height="587" alt="Screenshot 2026-05-02 at 3 48 14 PM" src="https://github.com/user-attachments/assets/161492fb-c027-45a3-8c2c-07166ed5796c" />
 
 ### Asset Class Comparison (Group Averages)
 
+<img width="728" height="372" alt="Screenshot 2026-05-02 at 3 48 57 PM" src="https://github.com/user-attachments/assets/69e09c9b-226c-4b22-aab0-8757cbeed66b" />
+
 
 ### Cross-Asset Correlation Matrix
+
+<img width="591" height="460" alt="Screenshot 2026-05-02 at 3 49 25 PM" src="https://github.com/user-attachments/assets/3e7ecdc9-b196-4b5c-b403-dd66bea1ffb9" />
+
 
 ---
 
