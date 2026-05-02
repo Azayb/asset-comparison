@@ -87,6 +87,7 @@ update findings as I learn more*
 
 ---
 
+
 ## How To Run
 ```bash
 git clone https://github.com/Azayb/asset-comparison.git
@@ -99,6 +100,7 @@ jupyter notebook asset_comparison.ipynb
 
 ---
 
+
 ## What I Learned
 - How to pull and clean real financial market data using Python
 - How to calculate daily returns, rolling volatility, Sharpe ratios, and max drawdown
@@ -106,7 +108,7 @@ jupyter notebook asset_comparison.ipynb
 - How to think about correlation as a tool for diversification and hedging
 - Analyzing the relationships between different assets and asset classes and drawing independent conclusions. 
 
-
+## Note
 This program was built to collect the past 1 year of closing prices for 20 instruments spanning the major asset classes: equities, fixed
 income, credit, commodities, FX, and volatility. Using daily returns, the analysis examines performance, volatility, and correlation across
 assets, both individually and by asset class, to identify broader market trends and relationships. A summary statistics table ranks assets by
@@ -124,3 +126,14 @@ markets.
 .
 .
 .
+___
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
